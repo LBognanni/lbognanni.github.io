@@ -1,1 +1,8 @@
-theme: jekyll-theme-midnight
+theme: minima
+title: Codemade
+description: >-
+  Site description
+  on multiple lines
+
+plugins:
+  - jekyll-feed
