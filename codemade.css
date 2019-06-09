@@ -10,3 +10,27 @@
 .site-header .site-nav .page-link {
     color: #eee;
 }
+
+body.has-bgimage header.post-header {
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    padding: 150px 0 100px;
+}
+
+body.has-bgimage header.site-header{
+    background-color: rgba(0,0,0, 0.5);
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-bottom: 1px solid rgb(255,255,255, 0.5);
+}
+
+body.has-bgimage header.post-header h1.post-title{
+    margin-top: 100px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0 0 2px black;
+}
