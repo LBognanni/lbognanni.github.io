@@ -1,8 +1,8 @@
 theme: minima
 title: Codemade
 description: >-
-  Site description
-  on multiple lines
+  Free Software and tech musings
+author: Loris Bognanni
 
 plugins:
   - jekyll-feed
