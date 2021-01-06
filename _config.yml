@@ -1,8 +1,1 @@
-theme: minima
-title: Codemade
-description: >-
-  Free Software and tech musings
-author: Loris Bognanni
-
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-cayman
